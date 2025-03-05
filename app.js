@@ -69,7 +69,7 @@ function textoInicial() {
 }
 
 let listaDeNumerosSorteados = [];
-let limiteNumeros = 50;
+let limiteNumeros = 40;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 textoInicial();
