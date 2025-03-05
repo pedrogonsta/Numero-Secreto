@@ -64,7 +64,7 @@ function exibirMensagemInicial() {
 
 // exibi texto inicial na tela.
 function textoInicial() {
-    exibirTextoNaTela('h1', 'Jogo do número Secreto');
+    exibirTextoNaTela('h1', 'Número Secreto');
     exibirTextoNaTela('p', `Escolha um número entre 1 e ${limiteNumeros}: `);
 }
 
